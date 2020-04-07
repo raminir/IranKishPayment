@@ -1,0 +1,1 @@
+{"version":3,"sources":["vitrin-admin-responsive-style.css"],"names":[],"mappings":"AAAA;IACI;;QAEI,qCAA4B;;gBAA5B,6BAA4B;;MAE/B;EACJ","file":"vitrin-admin-responsive-style.css","sourcesContent":["@media (max-width: 767px){\r\n    .num-tag-inner {\r\n\r\n        border-radius:  0 0 5px 5px;\r\n\r\n    }\r\n}"],"sourceRoot":"/source/"}

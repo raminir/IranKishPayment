@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<Shebalist>
+		<Name> </Name>
+		<Sheba>لطفا انتخاب کنید</Sheba>
+	</Shebalist>
+	<Shebalist>
+		<Name>نام و نام خانوادگی</Name>
+		<Sheba>شماره شبا</Sheba>
+	</Shebalist>
+	<Shebalist>
+		<Name>نام و نام خانوادگی</Name>
+		<Sheba>شماره شبا</Sheba>
+	</Shebalist>
+	<Shebalist>
+		<Name>نام و نام خانوادگی</Name>
+		<Sheba>شماره شبا</Sheba>
+	</Shebalist>
+
+	<PosConfig>
+		<Name>حساب تجارت</Name>
+		<Id  type="1">1</Id>
+		<TerminalNO>YourTerminalId</TerminalNO>
+		<MerchantNo>YourMerchantNo</MerchantNo>
+		<SerialNo>YourSerialNo</SerialNo>
+		<IPAddress>YourIpAddress</IPAddress>
+		<Port>1100</Port>
+	</PosConfig>
+	<PosConfig>
+		<Name>حساب توسعه</Name>
+		<Id type="2" >2</Id>
+		<TerminalNO>06163974</TerminalNO>
+		<MerchantNo>062006362138845</MerchantNo>
+		<SerialNo>54026985</SerialNo>
+		<IPAddress>YourIPAddress</IPAddress>
+		<Port>1100</Port>
+	</PosConfig>
+	<PosConfig>
+		<Name>چند حسابی</Name>
+		<Id type="3" >3</Id>
+		<TerminalNO>YourTerminalNO</TerminalNO>
+		<MerchantNo>YourMerchantNo</MerchantNo>
+		<SerialNo>YourSerialNo</SerialNo>
+		<IPAddress>YourIPAddress</IPAddress>
+		<Port>1100</Port>
+	</PosConfig>
+	<IPGData>
+
+		<TreminalId>TreminalId</TreminalId>
+		<AcceptorId>AcceptorId</AcceptorId>
+		<PassPhrase>PassPhrase</PassPhrase>
+		<URL>http://localhost:59303/verifypage.aspx</URL>
+		<RSAPublicKey>
+			<RSAKeyValue>
+				<Modulus>YourPublicKey Without AQAB</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</RSAPublicKey>
+	</IPGData>
+
+</DocumentElement>

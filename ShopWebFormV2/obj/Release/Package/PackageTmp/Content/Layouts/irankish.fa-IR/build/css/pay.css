@@ -1,0 +1,301 @@
+.payment-page-header {
+    padding: 10px 0;
+    border-bottom: 1px solid #eeeeee
+}
+
+.pay-info-collapse{
+    display: none;margin: 0 auto
+}
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-group .form-control {
+    height: 30px;
+    line-height: 30px;
+    padding: 0 5px;
+}
+
+.form-group label {
+    line-height: 30px !important;
+}
+
+.form-group .label {
+    line-height: 30px;
+}
+
+.form-group .help-block {
+    font-size: 11px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+.pay-main-col .pay-main-col-001 {
+    overflow: hidden;
+    float: left;
+}
+
+.pay-main-col .pay-main-col-002, .pay-main-col .pay-main-col-003, .pay-main-col .pay-main-col-004, .pay-main-col .pay-main-col-005,
+.pay-main-col .pay-main-col-005 {
+    min-height: auto;
+}
+
+.pay-main-col .pay-main-col-001 span, .pay-main-col .pay-main-col-004 span {
+    line-height: 30px;
+}
+
+.pay-main-col-006 img {
+    width: auto;
+    height: 30px;
+}
+
+.pay-main-col-007 button {
+    margin-top: 0;
+    padding: 1px 5px;
+}
+
+.pay-info.footer-style-2 .pay-info-002 {
+    margin-bottom: 0;
+}
+
+.help .well {
+    background: #ffffff;
+}
+
+.help p, .help li {
+    font-size: 12px;
+    line-height: 2;
+}
+
+.help .pay-help-001 span.glyphicon {
+    font-size: 8px;
+    margin-left: 10px;
+    color: #C8C8C8;
+}
+
+@media (min-width: 1200px) {
+    .pay-main-col {
+        width: 100%;
+    }
+
+    .pay-main-col-001-label {
+        float: right;
+    }
+
+    .pay-main-col .pay-main-col-004 input {
+        max-width: 80px;
+    }
+
+    .form-inline .form-control {
+        width: 215px;
+    }
+
+    .captcha-wrapper {
+        float: left;
+        width: 215px;
+    }
+
+    .pay-info .well {
+        height: 427px !important;
+    }
+
+    .pay-info.footer-style-2 .pay-info-002 {
+        height: 196px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .pay-main-col {
+        width: 100%;
+    }
+
+    .pay-main-col .pay-main-col-001 input {
+        max-width: 60px;
+    }
+
+    .pay-main-col .pay-main-col-004 input {
+        max-width: 58px;
+    }
+
+    .form-inline .form-control {
+        width: 170px;
+    }
+
+    .captcha-wrapper {
+        float: left;
+        width: 170px;
+    }
+
+    .pay-info .well {
+        height: 457px !important;
+    }
+
+    .pay-info.footer-style-2 .pay-info-002 {
+        height: 226px;
+    }
+}
+
+@media (min-width: 768px) {
+    .collapse {
+        display: block !important;
+        visibility: visible !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .pay-info .well {
+        margin: 0;
+    }
+
+    .pay-main-col {
+        width: 100%;
+    }
+
+    .pay-main-col .pay-main-col-001 input {
+        max-width: 54px !important;
+    }
+
+    .pay-main-col .pay-main-col-004 input {
+        max-width: 53px;
+    }
+
+    .form-inline .form-control {
+        width: 158px;
+    }
+
+    .captcha-wrapper {
+        float: left;
+        width: 158px;
+    }
+
+    .pay-info .well {
+
+        width: 100%;
+        height: 457px !important;
+    }
+
+    .pay-info.footer-style-2 .pay-info-002 {
+        height: 226px;
+    }
+}
+
+@media (min-width: 461px) and (max-width: 767px) {
+    .pay-info-collapse {
+        display: block !important;
+        width: 370px;
+    }
+
+    .pay-info .well {
+        margin: 0 auto 20px;
+    }
+
+    .pay-main-col .pay-main-col-001 input {
+        max-width: 59px !important;
+    }
+
+    .pay-main-col .pay-main-col-004 input {
+        max-width: 58px;
+    }
+
+    .form-inline .form-control {
+        width: 170px;
+    }
+
+    .captcha-wrapper {
+        float: left;
+        width: 170px;
+    }
+
+    .pay-info .well {
+        height: 400px !important;
+    }
+
+    .pay-info.footer-style-2 .pay-info-002 {
+        height: 167px;
+    }
+
+    ul {
+        padding-right: 16px;
+    }
+
+    .help .well {
+        background: #f5f5f5;
+    }
+
+    .footer {
+        background-color: #ffffff;
+        height: 50px;
+    }
+
+    .modal-header-logos-001 {
+        height: 20px;
+        margin-top: 11px;
+    }
+
+    .modal-header-logos-002 {
+        height: 40px;
+    }
+
+    .timer {
+        background: #ffffff;
+        top: 9px !important;
+    }
+}
+
+@media (max-width: 460px) {
+    .form-group {
+        overflow: hidden;
+    }
+
+    .pay-info-collapse {
+        display: block !important;
+        width: 100% !important;
+    }
+
+    .pay-info .well {
+        height: 400px !important;
+        margin: 0 auto 20px;
+    }
+
+    .pay-info.footer-style-2 .pay-info-002 {
+        height: 167px;
+    }
+
+    .pay-main-col .pay-main-col-001 input {
+        max-width: 45px !important;
+    }
+
+    .pay-main-col .pay-main-col-004 {
+        margin-top: 10px;
+    }
+
+    ul {
+        padding-right: 16px;
+    }
+
+    .help .well {
+        background: #f5f5f5;
+    }
+
+    .footer {
+        background-color: #ffffff;
+        height: 50px;
+    }
+
+    .modal-header-logos-001 {
+        height: 20px;
+        margin-top: 11px;
+    }
+
+    .modal-header-logos-002 {
+        height: 40px;
+    }
+
+    .timer {
+        background: #ffffff;
+        top: 9px !important;
+    }
+
+}
+
+/*# sourceMappingURL=pay.css.map */

@@ -1,0 +1,1 @@
+{"version":3,"sources":["gridConfig.css"],"names":[],"mappings":"AAAA;IACI,gBAAe;EAClB","file":"gridConfig.css","sourcesContent":[".ui-grid-pager-panel{\r\n    direction: ltr;\r\n}"],"sourceRoot":"/source/"}

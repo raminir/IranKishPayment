@@ -1,0 +1,1 @@
+{"version":3,"sources":["report_transactiondetails-page-style.css"],"names":[],"mappings":"AAAA;IACI,qBAAoB;EACvB;AACD;IACI,qBAAoB;EACvB","file":"report_transactiondetails-page-style.css","sourcesContent":[".rtrans-form{\r\n    margin-bottom: 30px;\r\n}\r\n.rtrans-table{\r\n    margin-bottom: 30px;\r\n}"],"sourceRoot":"/source/"}

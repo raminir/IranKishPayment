@@ -1,0 +1,60 @@
+.responsiveGrid{
+    overflow-x: auto
+}
+.k-grid-pager a{
+    border-radius: 0 !important;
+    border: 1px solid #ccc !important;
+}
+.k-pager-input,.k-pager-info {
+    padding-left: 10px;
+    padding-right: 0;
+    line-height: 32px;
+}
+.k-pager-sizes{
+    padding: 0;
+}
+.res-state-2  .k-pager-input{
+    display: block;
+    line-height: 40px;
+    clear: both;
+    float: none;
+    padding: 0;
+    margin: 0 auto;
+    width: 160px;
+}
+.res-state-2  .k-pager-input input{
+    border: none;
+    color: rgb(66, 139, 202);
+}
+.res-state-2 .k-pager-sizes{
+    display: block;
+    line-height: 40px;
+    clear: both;
+    float: none;
+    padding: 0;
+    margin: 0 auto;
+    width: 190px;
+}
+.res-state-2 .k-pager-info{
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    clear: both;
+    float: none;
+    padding: 0;
+}
+
+.k-column-menu .k-sprite{
+    float: left;
+}
+.k-animation-container{
+    padding-left: 0 !important;
+    margin-left: 1px !important;
+}
+@media (max-width:413px) {
+    .k-pager-nav.k-pager-first{
+    }
+    .res-state-2 a{
+        min-width: 25px !important;
+    }
+}

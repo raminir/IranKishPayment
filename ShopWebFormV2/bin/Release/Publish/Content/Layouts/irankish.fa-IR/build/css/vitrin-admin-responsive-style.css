@@ -1,0 +1,10 @@
+@media (max-width: 767px){
+    .num-tag-inner {
+
+        -webkit-border-radius:  0 0 5px 5px;
+
+                border-radius:  0 0 5px 5px;
+
+    }
+}
+/*# sourceMappingURL=vitrin-admin-responsive-style.css.map */

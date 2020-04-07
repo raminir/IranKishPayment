@@ -1,0 +1,285 @@
+.ix-header {
+    background: rgb(208, 210, 215);
+    /*background-size: cover;*/
+    /*margin-bottom: 60px;*/
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.ix-header .container {
+    background-image: url("../../../../Content/Layouts/irankish.fa-IR/imgs/coSiteIndex_bg1.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+.ticker-wrapper.has-js {
+    margin: 0;
+    padding: 0px 0px;
+    width: initial;
+    height: 40px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background-color: #f5f5f5;
+    font-size: inherit;
+}
+
+.ticker {
+    width: 100%;
+    height: 40px;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    background-color: #f5f5f5;
+}
+
+.ticker-title {
+    padding: 0 10px 0 0;
+    color: #990000;
+    font-weight: bold;
+    background-color: #f5f5f5;
+    line-height: 40px;
+    display: block;
+
+}
+
+.ticker-content {
+    padding: 0 10px 0 0;
+    line-height: 40px;
+    background: #f5f5f5;
+}
+
+.ticker-content a {
+    color: #6a6a6a;
+}
+
+.ticker-swipe {
+    padding: 0;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    top: 14px;
+}
+
+.carousel-indicators {
+    position: relative;
+    top: 10px;
+}
+
+.carousel-indicators li {
+    background: #e0e0e0;
+    width: 12px;
+    height: 12px;;
+}
+
+.carousel-indicators .active {
+    /*margin: 0 3px;*/
+    width: 13px;
+    height: 13px;
+    background-color: #d0103a;
+}
+
+/*.hot_link{*/
+/*margin-bottom: 26px;*/
+/*}*/
+.hot_link .front {
+    padding: 0 0;
+    /*margin-bottom: 3px;*/
+}
+
+.hot_link .back {
+
+    /*background: #46BFBD;*/
+    color: #d0103a;
+    padding: 0 0;
+}
+
+.hot_link .back span {
+    margin-bottom: 20px;
+    margin-top: 8px;
+    font-size: 20px;
+}
+
+.hot_link .front span {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    -webkit-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+       transition: 0.2s all ease;
+}
+
+.hot_link a {
+    text-decoration: none;
+    color: rgb(77, 83, 96);
+}
+
+.hot_link .flip-container {
+    /*border: 1px solid #dddddd;*/
+    position: relative;
+    width: 100%;
+    height: 100px;
+    /*-webkit-border-radius: 2px;*/
+    /*border-radius: 2px;*/
+    overflow: hidden;
+}
+
+.hot_link .flip-container .flipper {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    -webkit-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    -o-transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    transition: all 500ms cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    -webkit-transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    -o-transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+    transition-timing-function: cubic-bezier(0.165, 0.840, 0.440, 1.000);
+
+}
+
+.hot_link .flip-container:hover .flipper {
+    top: -40px;
+    background: #ffffff;
+}
+
+.hot_link .flip-container:hover .flipper .front {
+    padding: 0;
+}
+
+.hot_link .flip-container:hover .flipper .front span {
+    color: #ffffff;
+}
+
+.hot_link .flip-container:hover .flipper .front p {
+    /*margin-bottom: 20px;*/
+}
+
+.hot_link .flip-container:hover .flipper .back {
+    padding: 0;
+}
+
+.services {
+    margin-bottom: 40px;
+}
+
+.services .glyphicon {
+    font-size: 40px;
+    margin-top: 35px;
+
+}
+
+.services .glyphiconContainer {
+    -webkit-border-radius: 50%;
+            border-radius: 50%;
+    /*border: 1px solid #ffffff;*/
+    width: 110px;
+    height: 110px;
+    -webkit-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+       transition: 0.2s all ease;
+
+}
+
+.services > div:hover .glyphiconContainer {
+    background: #D93D60;
+    /*border-color:#d0103a ;*/
+    color: #ffffff;
+}
+
+.club a {
+    margin-bottom: 60px;
+    margin-top: 15px;
+    -webkit-border-radius: 28px;
+            border-radius: 28px;
+    width: 150px;
+    background-color: initial;
+    color: #d0103a;
+    -webkit-transition: 0.2s all ease;
+    -o-transition: 0.2s all ease;
+       transition: 0.2s all ease;
+}
+
+.articles a {
+    display: block;
+    line-height: 40px;
+    color: #6a6a6a;
+    text-decoration: none;
+    position: relative;
+}
+
+.articles a:before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: #ffffff;
+    -webkit-border-radius: 100%;
+            border-radius: 100%;
+    display: block;
+    position: absolute;
+    top: 11px;
+    right: -3px;
+    -webkit-transition: 0.2s all ease;
+
+    sition: 0.2s all ease;
+}
+
+.articles a:hover:before {
+    background: #D93D60;
+}
+
+.articles a:hover span.glyphicon {
+    color: #ffffff;
+}
+
+.articles a span.glyphicon {
+    margin-left: 15px;
+    top: 3px;
+}
+.viewpoint .cover {
+    height: 290px;
+    background: url("../../../../Content/Layouts/irankish.fa-IR/imgs/coSiteIndex-img-5.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.viewpoint .cover:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(51, 51, 51, 0.85);
+}
+.viewpoint .cover .viewpoint-content{
+    position: relative;
+    z-index: 1;
+}
+
+.footer .links ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.footer .links li{
+    position: relative;
+    padding-right: 15px;
+}
+.footer .links li a{
+    color: #6a6a6a;
+}
+.footer .links li:before{
+    content: " ";
+    position: absolute;
+    right: 0;
+    top: 12px;
+    width: 5px;
+    height: 5px;
+    background: #d0103a;
+}
+#customers-carousel .carousel-inner {
+     width: initial;
+}
+
+/*# sourceMappingURL=coSiteIndex-page-style.css.map */

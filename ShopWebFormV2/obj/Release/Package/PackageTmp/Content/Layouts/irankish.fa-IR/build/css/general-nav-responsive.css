@@ -1,0 +1,153 @@
+.btn.navbar-toggle {
+    padding: 6px 12px;
+}
+
+@media (max-width: 768px) {
+
+    .container-login-full {
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .navbar {
+        border: none
+    }
+
+    .navbar .navbar-nav {
+        border: none
+    }
+
+    .navbar.has-login:before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        background: #EAEBEC;
+        height: 47px;
+        top: 70px;
+    }
+
+    .navbar-brand img {
+        float: none;
+        margin: 0 auto;
+        height: 25px;
+    }
+
+    .navbar-fixed-top {
+        position: inherit;
+    }
+
+    .login {
+        padding: 0 15px;
+        border: none;
+    }
+
+    .login-style-2 {
+        padding: 0 15px 0 0;
+        border: none;
+    }
+
+    .login-style-3 {
+        padding: 0 15px 0 0;
+        border: none;
+    }
+
+    .login-style-2 button.dropdown-toggle {
+        -webkit-border-radius: 0 5px 5px 0;
+        border-radius: 0 5px 5px 0;
+        color: #ffffff;
+        background: #06af4e;
+        border: none;
+    }
+
+    .login-style-3 button.dropdown-toggle {
+        -webkit-border-radius: 0 5px 5px 0;
+        border-radius: 0 5px 5px 0;
+        color: #ffffff;
+        background: #d0103a;
+        border: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .nav-state-1-links {
+        background: #fff;
+        border-top: 0;
+    }
+
+    .sidebar {
+        z-index: 1;
+        position: absolute;
+        width: 250px;
+        margin-top: 71px;
+        top: 0;
+    }
+
+    #page-wrapper {
+        position: inherit;
+        margin: 0 250px 0 0;
+        /*padding: 0 30px;*/
+        border-right: 1px solid #e7e7e7;
+    }
+
+    .navbar-top-links .dropdown-messages,
+    .navbar-top-links .dropdown-tasks,
+    .navbar-top-links .dropdown-alerts {
+        margin-right: auto;
+    }
+
+    .navbar-fixed-top,
+    .navbar-fixed-bottom {
+        position: fixed;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+.login .dropdown-menu {
+    left: 15px;
+    right: auto;
+    float: left;
+    width: 260px;
+    overflow: hidden;
+    padding: 10px 15px 0;
+}
+
+.login .dropdown-menu .form-group {
+    width: 100%;
+}
+
+.login .dropdown-menu .form-group input {
+    width: 100%;
+}
+
+.login .dropdown-menu .login_reg_1 {
+    background: url(../../imgs/nav_login_img.png);
+    height: 6px;
+}
+
+.login .dropdown-menu .login_reg_2 {
+    background: #06af4e;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.login .dropdown-menu .login_reg_2 p {
+    color: white;
+}
+
+.login .dropdown-menu .login_reg_2 a {
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    background: #007D32;
+    border-color: #007D32;
+}
+
+.login .dropdown-menu .login_reg_2 a:hover {
+    background: #ffffff;
+    border-color: #ffffff;
+    color: #007D32;
+}
+/*# sourceMappingURL=general-nav-responsive.css.map */

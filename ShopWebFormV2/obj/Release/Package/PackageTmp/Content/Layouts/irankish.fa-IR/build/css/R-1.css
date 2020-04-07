@@ -1,0 +1,29 @@
+dl {
+    margin-bottom: 0;
+}
+.dl-horizontal dt {
+  text-align: right;
+    color: #265a88;
+}
+.pay-main-col-006 img{
+    width: 150px;height: 50px
+}
+.pay-main-col-007 button{
+    float: left;margin-top: 5px
+}
+.pay-main-col-007 button span{
+    font-size: 17px; top: 4px;
+}
+.checkbox input[type=checkbox]{
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+}
+.checkbox label{
+    color: #4d4d4d;
+}
+.capthca{
+    padding: 25px;
+    margin-bottom: 0;
+}
+/*# sourceMappingURL=R-1.css.map */

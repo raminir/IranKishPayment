@@ -1,0 +1,6 @@
+@media (max-width: 991px) {
+    .rgn-p-2 .btn{
+        position: initial;
+        margin-bottom: 15px;
+    }
+}

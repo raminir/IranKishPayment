@@ -1,0 +1,25 @@
+@media (min-width: 768px) and (max-width: 850px) {
+    .shop-choose-001 .shop-choose-btn span{
+        font-size: 25px;
+        width: 100%;
+        line-height: normal;
+        margin: 0;
+        text-align: center;
+        padding: 10px 0 5px;
+    }
+    .shop-choose-001 .shop-choose-btn h4{
+        line-height: normal;
+        text-align: center;
+        float: none;
+    }
+}
+@media (max-width: 767px){
+    .shop-main-row {
+        margin-top: 30px;
+    }
+    .shop-choose-001 .shop-choose-btn, .shop-choose-002 .shop-choose-btn{
+        margin-bottom: 10px;
+    }
+}
+
+/*# sourceMappingURL=eShop-responsive-style.css.map */

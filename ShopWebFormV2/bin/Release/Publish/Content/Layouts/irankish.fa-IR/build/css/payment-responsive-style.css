@@ -1,0 +1,84 @@
+@media (max-width: 460px) {
+    .pay-bills-form {
+         margin-top: 0;
+    }
+    .dsh-p-header{
+        border-bottom: none;
+    }
+    .dsh-p-header h4 {
+        text-align: center;
+        margin-top: 25px;
+        margin-bottom: 7px;
+    }
+    .pay-main-col {
+        width: 275px;
+    }
+    .pay-main-col .pay-main-col-001 input {
+        max-width: 46px;
+    }
+    .pay-main-col .pay-main-col-001 span {
+        padding: 0 2px;
+    }
+    .form-inline .form-control {
+        width: 100%;
+    }
+    .pay-main-col .pay-main-col-004 {
+        margin-top: 30px;
+        min-height: initial;
+    }
+    .pay-main-col .pay-main-col-004 label{
+        line-height: 40px;
+    }
+    .pay-info .well{
+        width:100% !important;
+    }
+    .pay-info-collapse{
+        width:275px !important; ;
+    }
+    .modal-header-logos-001{
+        height: 20px;
+    }
+    .modal-header-logos-002{
+        height: 50px;
+    }
+}
+@media (min-width: 992px) {
+    /*.collapse {*/
+        /*display: block !important;*/
+        /*visibility: visible !important;*/
+    /*}*/
+
+}
+@media (max-width:991px) {
+    .pay-info .well{
+        height: auto;
+        width:368px;
+        margin: 0 auto 30px;
+    }
+    .pay-main-col {
+        margin: 0 auto;
+    }
+    /*.pay-info-collapse{*/
+        /*display: block !important;*/
+        /*width:370px ;*/
+    /*}*/
+    .title h4{
+        text-align:center;
+    }
+
+}
+ @media (min-width:1200px) {
+     .pay-main-row .col-lg-8{
+     width: 85%;
+     margin-right: 8.5%;
+     }
+ }
+@media (min-width:1460px) {
+    .pay-main-row .col-lg-8{
+        width: 66.66666667%;
+        margin-right: 16.66666667%;
+    }
+}
+
+
+/*# sourceMappingURL=payment-responsive-style.css.map */

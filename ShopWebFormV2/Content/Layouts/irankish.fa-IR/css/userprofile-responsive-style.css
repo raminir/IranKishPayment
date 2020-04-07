@@ -1,0 +1,23 @@
+@media (max-width: 767px) {
+    .usr-info .panel-heading{
+        height: 150px;
+    }
+    .user-pic{
+        top: 108px;
+        left:26px
+    }
+    .responsive-tab li{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .responsive-tab li a {
+        border-radius: 2px;
+        background: white;
+        color: #6A6A6A;
+        border: 1px solid #DDD;
+    }
+    .responsive-tab li a:hover,.nav-tabs > li.active > a,.nav-tabs > li.active > a:focus,.nav-tabs > li.active > a:hover{
+        border: 1px solid #ebebeb;
+        background: #ebebeb;
+    }
+}

@@ -1,0 +1,50 @@
+.pay-info-002.receipt dt,.pay-main-col.receipt dt{
+    text-align: right;
+    color: #265a88;
+    width: 130px;
+}
+@media (min-width: 768px){
+    .pay-info-002.receipt dd,.pay-main-col.receipt dd{
+        margin-right: 130px;
+    }
+}
+
+.help.receipt .well,.pay-main-col.receipt .well{
+    /*height: 260px !important;*/
+    padding-top: 5px;
+}
+.pay-info-002.receipt{
+    height: 100px !important;
+}
+.pay-info.receipt .well {
+    height: 462px !important;
+}
+
+.help.receipt .well{
+    height: 207px;
+}
+
+
+
+
+.help.receipt {
+    width: 370px;
+    margin: 0 auto;
+}
+@media (min-width: 768px){
+    .help.receipt {
+        width: 100%;
+    }
+}
+@media (max-width: 460px){
+    .help.receipt {
+        width: 275px;
+    }
+    .pay-info-collapse {
+        width: 275px !important;
+    }
+}
+
+img {
+    max-width: 100%;
+}

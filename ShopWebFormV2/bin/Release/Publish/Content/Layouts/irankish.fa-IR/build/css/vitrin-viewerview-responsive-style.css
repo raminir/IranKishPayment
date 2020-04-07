@@ -1,0 +1,31 @@
+@media (min-width: 768px){
+    .dl-horizontal.dl-001 dt{
+        width: 120px;
+    }
+    .dl-horizontal.dl-001 dd {
+        margin-right: 120px;
+    }
+    .dl-horizontal.dl-002 dt{
+        width: 270px;
+    }
+    .dl-horizontal.dl-002 dd {
+        margin-right: 270px;
+    }
+
+}
+@media (max-width: 767px){
+    .num-tag-inner {
+
+        -webkit-border-radius:  0 0 5px 5px;
+
+                border-radius:  0 0 5px 5px;
+
+    }
+    .search-section .search-section-img{
+        height: 250px;
+        background-repeat: no-repeat;
+        background-size: 110% !important;
+        background-position: -16px 0px;
+    }
+}
+/*# sourceMappingURL=vitrin-viewerview-responsive-style.css.map */

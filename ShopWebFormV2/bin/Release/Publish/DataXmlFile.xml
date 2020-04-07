@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<Shebalist>
+		<Name> </Name>
+		<Sheba>لطفا انتخاب کنید</Sheba>
+	</Shebalist>
+	<Shebalist>
+		<Name>مهدی فدوی تجارت</Name>
+		<Sheba>IR870180000000008322908440</Sheba>
+	</Shebalist>
+	<Shebalist>
+		<Name>مهدی فدوی-توسعه</Name>
+		<Sheba>IR280510010180000219212001</Sheba>
+	</Shebalist>
+	<Shebalist>
+		<Name>مهدی فدوی  ملت</Name>
+		<Sheba>IR680120010000003187611452</Sheba>
+	</Shebalist>
+	<!--<Shebalist>
+    <Name>کبری فدوی</Name>
+    <Sheba>IR960550162182705829064001</Sheba>
+  </Shebalist>
+  <Shebalist>
+    <Name>مولود اسحاقی</Name>
+    <Sheba>IR280120020000004977727225</Sheba>
+  </Shebalist>-->
+	<PosConfig>
+		<Name>حساب تجارت</Name>
+		<Id  type="1">1</Id>
+		<TerminalNO>06084568</TerminalNO>
+		<MerchantNo>062006362080060</MerchantNo>
+		<SerialNo>54026985</SerialNo>
+		<IPAddress>192.168.14.82</IPAddress>
+		<Port>1100</Port>
+	</PosConfig>
+	<PosConfig>
+		<Name>حساب توسعه</Name>
+		<Id type="2" >2</Id>
+		<TerminalNO>06163974</TerminalNO>
+		<MerchantNo>062006362138845</MerchantNo>
+		<SerialNo>54026985</SerialNo>
+		<IPAddress>192.168.14.82</IPAddress>
+		<Port>1100</Port>
+	</PosConfig>
+	<PosConfig>
+		<Name>چند حسابی</Name>
+		<Id type="3" >3</Id>
+		<TerminalNO>05117579</TerminalNO>
+		<MerchantNo>000000000393145</MerchantNo>
+		<SerialNo>54026985</SerialNo>
+		<IPAddress>192.168.14.82</IPAddress>
+		<Port>1100</Port>
+	</PosConfig>
+	<IPGData>
+
+		<TreminalId>02040275</TreminalId>
+		<AcceptorId>992180002040275</AcceptorId>
+		<PassPhrase>299832B6AB2FFA16</PassPhrase>
+		<URL>http://localhost:59303/verifypage.aspx</URL>
+		<RSAPublicKey>
+			<RSAKeyValue>
+				<Modulus>2J1h2RL5v+26bjYS7aBz916HCgmMaAvtImCxL9qbK5BF7o1LJV/dRSU4FwO05vIs92yGZDZStMVYrc+LDnjjItPz177XFkw4ZEFGqfTnpDL8cQgMFJ5KQZXOCAhHPd9l7e/T9lXdOVwQBN3bA7ppYOEiZKulBHhpabRuIo7zV3k=</Modulus>
+				<Exponent>AQAB</Exponent>
+			</RSAKeyValue>
+		</RSAPublicKey>
+	</IPGData>
+
+</DocumentElement>

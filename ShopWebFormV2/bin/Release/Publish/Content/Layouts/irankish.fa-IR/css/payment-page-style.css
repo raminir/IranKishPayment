@@ -1,0 +1,186 @@
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+.ltr{
+    direction: ltr
+}
+.pay-main-row{
+    margin-bottom: 23px
+}
+.pay-main-col{
+    width: 370px
+}
+.pay-main-col .help-block{
+    float: right;
+
+}
+.pay-main-col .pay-main-col-001 input{
+    max-width: 60px;float: right
+}
+.pay-main-col .pay-main-col-001 span{
+    float: right;line-height: 40px;font-family: arial, sans-serif;padding: 0 5px;
+}
+.pay-main-col .pay-main-col-002{
+    min-height: 60px
+}
+.pay-main-col .pay-main-col-003{
+    min-height: 60px
+}
+.pay-main-col .pay-main-col-004{
+    min-height: 60px
+}
+.pay-main-col .pay-main-col-004 input{
+    max-width: 52px;float: right
+}
+.pay-main-col .pay-main-col-004 span{
+    float: right;line-height: 40px;padding: 0 5px;
+}
+.pay-main-col .pay-main-col-005{
+    min-height: 60px
+}
+.pay-main-col-006 img{
+    width: 150px;height: 50px
+}
+.pay-main-col-007 button{
+    float: left;margin-top: 5px
+}
+.pay-main-col-007 button span{
+    font-size: 17px; top: 4px;
+}
+.pay-info .well{
+    height: 565px
+}
+.pay-info .well .pay-info-001{
+    margin-bottom: 20px
+}
+
+
+.pay-info.pay-general .well .pay-info-001 div{
+    border-radius: 2px;
+    height: 100px;
+    background: #0f4dbc;
+    text-align: center;
+    color: white;
+}
+
+.pay-info.pay-general .well .pay-info-002 span.glyphicon{
+    font-size: 8px; margin-left: 10px;color: #0f4dbc
+}
+
+
+
+.pay-info.pay-gas .well .pay-info-001 div{
+    cursor: pointer;
+    border-radius: 2px;
+    height: 100px;
+    background: #0008df url('../../imgs/NISOC-Logo-2.png');
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: center 7px;
+}
+
+
+.pay-info.pay-gas .well .pay-info-002 span.glyphicon{
+    font-size: 8px; margin-left: 10px;color: #0008DF
+}
+
+.pay-info.pay-irancell .well .pay-info-001 div{
+    cursor: pointer;
+    border-radius: 2px;
+    height: 100px;
+    background: rgb(255, 189, 0) url('../../imgs/Gbrand.png');
+    background-repeat: no-repeat;
+    background-size: 78px;
+    background-position: center 31px;
+}
+.pay-info.pay-irancell .well .pay-info-002 span.glyphicon{
+    font-size: 8px; margin-left: 10px;color: rgb(255, 189, 0);
+}
+.pay-info.pay-bills .well .pay-info-002 span.glyphicon{
+    font-size: 8px; margin-left: 10px;color: rgb(15, 77, 188);
+}
+.pay-bills-form{
+    margin-top: 20px
+}
+.modal-header-logos-001{
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.modal-header-logos-002{
+    height: 60px;
+    margin-left: 15px;
+}
+.timer{
+    background: url("../imgs/timer.png");
+    height: 30px;
+    background-repeat: no-repeat;
+    width: 250px;
+    margin: 0 auto;
+    position: relative;
+    top: -15px;
+}
+.timer p{
+    text-align: center;
+    line-height: 30px;
+}
+.timer span{
+    width: 60px;
+    display: block;
+    float: left;
+    position: relative;
+    left: 50px;
+}
+
+
+/*----------------------------------------------------------*/
+/*//////////////////////////////////////////////////////////*/
+/*----------------------------------------------------------*/
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: lightgray;
+}
+
+div.keypad-rtl {
+    border-color: rgb(204, 204, 204);
+}
+
+div.keypad-rtl button {
+    direction: rtl;
+    font-size: 10pt;
+    font-family: "webYekan", Arial;
+    border: 1px solid rgb(227, 227, 227);
+    border-radius: 2px;
+}
+
+div.keypad-rtl .keypad-close {
+    background-color: #35BE70;
+    border: none;
+    font-size: 12px !important;
+    line-height: 28px;
+    width: 56px;
+}
+
+div.keypad-rtl .keypad-clear {
+    background-color: #D93D60;
+    border: none;
+    font-size: 12px !important;
+    line-height: 28px;
+    width: 56px;
+}
+
+div.keypad-rtl .keypad-back {
+    background-color: #F8A151;
+    border: none;
+    font-size: 12px !important;
+    line-height: 28px;
+    width: 56px;
+}
+
+.ltr {
+    font-family: Verdana;
+}
+.ltr span {
+    font-family: "webYekan", Arial;
+}

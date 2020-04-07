@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Ramin\Desktop\ShopWebFormV2\ShopWebFormV2\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="BillPayement.aspx">
+      <publishTime>02/06/2020 08:30:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/16/2017 14:14:32</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/ShopWebFormV2.dll">
+      <publishTime>04/07/2020 13:46:22</publishTime>
+    </File>
+    <File Include="bin/ShopWebFormV2.pdb">
+      <publishTime>04/07/2020 13:46:22</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/16/2018 08:14:25</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/23/2015 13:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrap-rtl.css">
+      <publishTime>08/09/2015 16:05:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrap-rtl.css.map">
+      <publishTime>08/09/2015 16:05:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrap-rtl.min.css">
+      <publishTime>08/09/2015 16:05:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrap-rtl.min.css.map">
+      <publishTime>08/09/2015 16:05:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrap.css">
+      <publishTime>08/03/2015 16:06:53</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrap.css.map">
+      <publishTime>08/03/2015 16:06:53</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrapConfig.css">
+      <publishTime>11/10/2015 21:05:03</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/bootstrapConfig.css.map">
+      <publishTime>08/09/2015 16:05:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/coSiteIndex-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/coSiteIndex-page-style.css.map">
+      <publishTime>08/09/2015 16:05:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/coSiteIndex-resposive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/coSiteIndex-resposive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/dashboard-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/dashboard-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/dashboard-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/dashboard-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/emReport-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/emReport-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/emReport-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/emReport-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/eShop-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/eShop-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/eShop-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/eShop-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/general-dashboard-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/general-dashboard-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/general-dashboard-responsive.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/general-dashboard-responsive.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/general-nav-responsive.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/general-nav-responsive.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/gridConfig.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/gridConfig.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/index-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/index-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/index-resposive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/index-resposive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/IPG_Registration-1-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/IPG_Registration-1-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/IPG_Registration-1.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/IPG_Registration-1.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/jqGridConfig.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/jqGridConfig.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/kendo-responsiveGrid.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/kendo-responsiveGrid.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/pay-test.css">
+      <publishTime>08/09/2015 14:27:31</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/pay-test.css.map">
+      <publishTime>08/09/2015 14:27:31</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/pay.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/pay.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/payment-page-style.css">
+      <publishTime>09/25/2015 15:58:28</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/payment-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/payment-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/payment-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-1-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-1-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-1.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-1.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-2-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-2-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-2.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-2.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-3.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/R-3.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/receipt.css">
+      <publishTime>12/13/2015 14:47:37</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/registration-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/registration-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/registration-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/registration-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/report_transactiondetails-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/report_transactiondetails-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/report_transactiondetails-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/report_transactiondetails-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/userprofile-page-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/userprofile-page-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/userprofile-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/userprofile-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-admin-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-admin-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-admin.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-admin.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-viewerview-responsive-style.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-viewerview-responsive-style.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-viewerview.css">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/build/css/vitrin-viewerview.css.map">
+      <publishTime>08/09/2015 16:05:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/bootstrap-rtl.css">
+      <publishTime>02/08/2015 14:30:42</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/bootstrap-rtl.css.map">
+      <publishTime>01/21/2015 21:22:06</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/bootstrap-rtl.min.css">
+      <publishTime>01/21/2015 21:22:06</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/bootstrapConfig.css">
+      <publishTime>12/12/2015 11:51:06</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/coSiteIndex-page-style.css">
+      <publishTime>05/11/2015 14:02:01</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/coSiteIndex-resposive-style.css">
+      <publishTime>04/21/2015 14:16:21</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/dashboard-page-style.css">
+      <publishTime>02/21/2015 18:09:12</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/dashboard-responsive-style.css">
+      <publishTime>02/24/2015 17:39:04</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/emReport-page-style.css">
+      <publishTime>02/28/2015 15:31:30</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/emReport-responsive-style.css">
+      <publishTime>02/28/2015 14:13:49</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/eShop-page-style.css">
+      <publishTime>06/02/2015 13:48:41</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/eShop-responsive-style.css">
+      <publishTime>05/26/2015 15:11:07</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/general-dashboard-page-style.css">
+      <publishTime>06/02/2015 12:26:38</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/general-dashboard-responsive.css">
+      <publishTime>02/24/2015 17:41:03</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/general-nav-responsive.css">
+      <publishTime>06/20/2015 15:17:21</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/gridConfig.css">
+      <publishTime>04/12/2015 16:31:43</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/index-page-style.css">
+      <publishTime>03/15/2015 18:42:52</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/index-resposive-style.css">
+      <publishTime>03/15/2015 16:02:21</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/IPG_Registration-1-responsive-style.css">
+      <publishTime>06/21/2015 14:22:44</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/IPG_Registration-1.css">
+      <publishTime>06/21/2015 15:11:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/jqGridConfig.css">
+      <publishTime>04/19/2015 11:13:17</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/kendo-responsiveGrid.css">
+      <publishTime>06/20/2015 14:24:21</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/payment-page-style.css">
+      <publishTime>07/04/2015 17:48:13</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/payment-responsive-style.css">
+      <publishTime>07/04/2015 19:03:33</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/R-1-responsive-style.css">
+      <publishTime>06/16/2015 17:31:39</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/R-1.css">
+      <publishTime>06/08/2015 14:56:24</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/R-2-responsive-style.css">
+      <publishTime>06/20/2015 14:32:26</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/R-2.css">
+      <publishTime>06/20/2015 15:18:19</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/R-3.css">
+      <publishTime>06/20/2015 16:22:42</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/registration-page-style.css">
+      <publishTime>04/19/2015 17:41:50</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/registration-responsive-style.css">
+      <publishTime>04/19/2015 17:49:55</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/report_transactiondetails-page-style.css">
+      <publishTime>04/18/2015 15:08:37</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/report_transactiondetails-responsive-style.css">
+      <publishTime>04/18/2015 14:51:44</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/userprofile-page-style.css">
+      <publishTime>02/28/2015 15:31:18</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/css/userprofile-responsive-style.css">
+      <publishTime>02/24/2015 19:26:28</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/fonts/YekanWeb-Bold.woff">
+      <publishTime>07/27/2014 13:51:46</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/fonts/YekanWeb-Regular.woff">
+      <publishTime>07/27/2014 13:51:46</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/.editorconfig">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/.gitattributes">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/.gitignore">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/.travis.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/bower.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/CNAME">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/composer.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/CONTRIBUTING.md">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/css/bootstrap-theme.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/css/bootstrap-theme.css.map">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/css/bootstrap-theme.min.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/css/bootstrap.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/css/bootstrap.css.map">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/css/bootstrap.min.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/js/bootstrap.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/js/bootstrap.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/dist/js/npm.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/about.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/apple-touch-icon.png">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/brand/bootstrap-outline.svg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/brand/bootstrap-punchout.svg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/brand/bootstrap-solid.svg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/css/docs.min.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/css/src/docs.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/css/src/pygments-manni.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/flash/ZeroClipboard.swf">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/img/components.png">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/img/devices.png">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/img/sass-less.png">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/customize.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/docs.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/ie-emulation-modes-warning.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/ie10-viewport-bug-workaround.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/ie8-responsive-file-warning.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/raw-files.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/src/application.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/src/customizer.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/autoprefixer.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/Blob.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/FileSaver.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/holder.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/jszip.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/less.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/uglify.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/assets/js/vendor/ZeroClipboard.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/browser-bugs.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/components.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/css.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/customize.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/css/bootstrap-theme.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/css/bootstrap-theme.css.map">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/css/bootstrap-theme.min.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/css/bootstrap.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/css/bootstrap.css.map">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/css/bootstrap.min.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/js/bootstrap.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/js/bootstrap.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/dist/js/npm.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/blog/blog.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/blog/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/carousel/carousel.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/carousel/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/cover/cover.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/cover/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/dashboard/dashboard.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/dashboard/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/grid/grid.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/grid/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/jumbotron-narrow/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/jumbotron-narrow/jumbotron-narrow.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/jumbotron/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/jumbotron/jumbotron.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/justified-nav/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/justified-nav/justified-nav.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/navbar-fixed-top/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/navbar-fixed-top/navbar-fixed-top.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/navbar-static-top/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/navbar-static-top/navbar-static-top.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/navbar/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/navbar/navbar.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/non-responsive/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/non-responsive/non-responsive.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/offcanvas/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/offcanvas/offcanvas.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/offcanvas/offcanvas.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/blog.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/carousel.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/cover.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/dashboard.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/equal-height-columns.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/grid.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/jumbotron-narrow.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/jumbotron.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/justified-nav.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/navbar-fixed.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/navbar-static.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/navbar.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/non-responsive.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/offcanvas.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/sign-in.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/starter-template.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/sticky-footer-navbar.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/sticky-footer.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/screenshots/theme.jpg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/signin/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/signin/signin.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/starter-template/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/starter-template/starter-template.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/sticky-footer-navbar/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/sticky-footer/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/sticky-footer/sticky-footer.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/theme/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/theme/theme.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/tooltip-viewport/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/tooltip-viewport/tooltip-viewport.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/examples/tooltip-viewport/tooltip-viewport.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/favicon.ico">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/getting-started.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/javascript.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/LICENSE">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/migration.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/robots.txt">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/sitemap.xml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_data/browser-bugs.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_data/core-team.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_data/glyphicons.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_data/sass-team.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_data/showcase.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_data/translations.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/ads.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/alerts.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/badges.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/breadcrumbs.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/button-dropdowns.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/button-groups.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/dropdowns.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/glyphicons.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/input-groups.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/jumbotron.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/labels.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/list-group.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/media.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/navbar.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/navs.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/page-header.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/pagination.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/panels.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/progress-bars.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/responsive-embed.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/thumbnails.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/components/wells.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/buttons.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/code.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/forms.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/grid.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/helpers.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/images.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/less.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/overview.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/responsive-utilities.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/sass.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/tables.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/css/type.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/customizer-variables.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/footer.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/accessibility.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/browser-device-support.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/community.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/disabling-responsiveness.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/download.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/examples.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/grunt.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/license.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/template.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/third-party-support.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/tools.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/translations.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/getting-started/whats-included.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/header.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/affix.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/alerts.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/buttons.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/carousel.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/collapse.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/dropdowns.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/modal.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/overview.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/popovers.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/scrollspy.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/tabs.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/tooltips.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/js/transitions.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/about.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/components.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/css.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/customize.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/getting-started.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/javascript.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/main.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/nav/migration.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_includes/social-buttons.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_jade/customizer-nav.jade">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_jade/customizer-variables.jade">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_layouts/default.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_layouts/home.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_plugins/bridge.rb">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/docs/_plugins/bugify.rb">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/.jshintrc">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/bs-commonjs-generator.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/bs-glyphicons-data-generator.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/bs-lessdoc-parser.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/bs-raw-files-generator.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/configBridge.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/grunt/sauce_browsers.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/Gruntfile.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/.jscsrc">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/.jshintrc">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/affix.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/alert.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/button.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/carousel.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/collapse.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/dropdown.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/modal.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/popover.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/scrollspy.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tab.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/index.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/.jshintrc">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/affix.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/alert.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/button.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/carousel.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/collapse.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/dropdown.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/modal.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/phantom.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/popover.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/scrollspy.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/tab.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/unit/tooltip.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/vendor/jquery.min.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/vendor/qunit.css">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/vendor/qunit.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/affix.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/alert.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/button.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/carousel.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/collapse.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/dropdown.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/modal.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/popover.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/scrollspy.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/tab.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tests/visual/tooltip.html">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/tooltip.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/js/transition.js">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/.csscomb.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/.csslintrc">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/alerts.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/badges.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/bootstrap.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/breadcrumbs.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/button-groups.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/buttons.less">
+      <publishTime>02/08/2015 17:50:22</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/carousel.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/close.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/code.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/component-animations.less">
+      <publishTime>02/08/2015 14:51:46</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/dropdowns.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/forms.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/glyphicons.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/grid.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/input-groups.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/jumbotron.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/labels.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/list-group.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/media.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/alerts.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/background-variant.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/border-radius.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/buttons.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/center-block.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/clearfix.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/forms.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/gradients.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/grid-framework.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/grid.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/hide-text.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/image.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/labels.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/list-group.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/nav-divider.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/nav-vertical-align.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/opacity.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/pagination.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/panels.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/progress-bar.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/reset-filter.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/resize.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/responsive-visibility.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/size.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/tab-focus.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/table-row.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/text-emphasis.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/text-overflow.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/mixins/vendor-prefixes.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/modals.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/navbar.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/navs.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/normalize.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/pager.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/pagination.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/panels.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/popovers.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/print.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/progress-bars.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/responsive-embed.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/responsive-utilities.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/scaffolding.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/tables.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/theme.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/thumbnails.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/tooltip.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/type.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/utilities.less">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/variables.less">
+      <publishTime>05/19/2015 12:04:59</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/less/wells.less">
+      <publishTime>02/08/2015 11:59:14</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/LICENSE">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/package.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/README.md">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/test-infra/npm-shrinkwrap.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/test-infra/README.md">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/test-infra/requirements.txt">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/test-infra/S3Cachefile.json">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/test-infra/s3_cache.py">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/test-infra/uncached-npm-install.sh">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/frameworks/bootstrap-3.3.2/_config.yml">
+      <publishTime>01/19/2015 09:03:08</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/imgs/coSiteIndex_logo_0.png">
+      <publishTime>04/27/2015 15:00:59</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/imgs/irankish_logo.png">
+      <publishTime>03/17/2015 12:09:53</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/imgs/irankish_logo_2X.png">
+      <publishTime>08/14/2015 12:22:48</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/imgs/shaparak.png">
+      <publishTime>08/08/2015 15:35:58</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/js/bootstrapConfigFileScript.js">
+      <publishTime>02/09/2015 17:52:50</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/lib/angular-animate.js">
+      <publishTime>01/27/2015 00:44:38</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/lib/angular-resource.js">
+      <publishTime>02/06/2015 20:54:54</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/lib/angular-route.js">
+      <publishTime>02/01/2015 12:53:54</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/lib/angular.js">
+      <publishTime>01/27/2015 00:59:00</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/lib/jquery-1.11.2.min.js">
+      <publishTime>04/07/2015 20:05:02</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/lib/TweenMax.js">
+      <publishTime>01/25/2015 00:42:48</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/plugins/jquery.bootstrap-autohidingnavbar.min.js">
+      <publishTime>03/16/2014 13:49:58</publishTime>
+    </File>
+    <File Include="Content/Layouts/irankish.fa-IR/plugins/metisMenu.min.js">
+      <publishTime>01/19/2015 23:49:34</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>07/23/2015 13:03:06</publishTime>
+    </File>
+    <File Include="DataXmlFile.xml">
+      <publishTime>04/07/2020 13:12:40</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/02/2020 17:16:59</publishTime>
+    </File>
+    <File Include="MultiAccountPage.aspx">
+      <publishTime>03/15/2020 16:44:29</publishTime>
+    </File>
+    <File Include="MyMasterPage.Master">
+      <publishTime>02/02/2020 17:05:33</publishTime>
+    </File>
+    <File Include="Payment.aspx">
+      <publishTime>03/15/2020 16:44:39</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>02/16/2016 11:10:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>02/16/2016 11:10:13</publishTime>
+    </File>
+    <File Include="VerifyPage.aspx">
+      <publishTime>02/03/2020 08:54:42</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/07/2020 13:46:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

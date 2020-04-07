@@ -1,0 +1,11 @@
+@media (max-width:991px) {
+
+        .dl-horizontal dd {
+            margin-right: 10px;
+            margin-left: 0;
+        }
+    .dl-horizontal dt{
+        width: 120px;
+    }
+
+}

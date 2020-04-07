@@ -1,0 +1,105 @@
+/*.gridWrapper * {*/
+/*-webkit-box-sizing: initial;*/
+/*-moz-box-sizing: initial;*/
+/*box-sizing: initial;*/
+/*}*/
+.gridWrapper table {
+    border-collapse: separate;
+    line-height: 2.5;
+}
+
+.gridWrapper table input {
+    color: #212121;
+}
+
+.gridWrapper .ui-jqgrid .ui-pg-input,
+.ui-jqgrid .ui-jqgrid-toppager .ui-pg-input {
+    margin: 3px 5px;
+    line-height: 0;
+    border: none;
+    padding: 3px;
+    height: initial;
+}
+
+.ui-jqgrid .ui-pg-selbox, .ui-jqgrid .ui-jqgrid-toppager .ui-pg-selbox {
+    margin: 3px 5px;
+    line-height: 0;
+    border: none;
+    padding: 2px;
+    height: initial;
+}
+
+.gridWrapper .ui-jqgrid .ui-jqgrid-pager {
+    padding: 2px 0 9px !important
+}
+
+.gridWrapper .ui-jqgrid .ui-sort-rtl {
+    left: -5px;
+}
+
+.gridWrapper .ui-jqgrid .ui-icon-asc {
+    margin-top: 2px;
+    margin-left: 1px;
+}
+
+.gridWrapper .ui-jqgrid .ui-icon-desc {
+    margin-top: 8px;
+}
+
+.gridWrapper .ui-jqgrid .ui-jqgrid-htable th {
+    /*padding: 0 6px 0 2px;*/
+    padding: 2px 7px;
+}
+
+.gridWrapper .ui-search-table select, .ui-search-table input {
+    padding: 0 3px;
+    background: rgb(88, 131, 208);
+    border: none;
+    color: #ffffff;
+}
+
+.gridWrapper .ui-jqgrid tr.ui-search-toolbar td > input {
+    padding-right: 3px;
+    background: rgb(88, 131, 208);
+    border: none;
+}
+
+.gridWrapper .ui-jqgrid .ui-search-table td.ui-search-clear {
+    width: 13px;
+}
+
+.gridWrapper .ui-jqgrid .ui-jqgrid-titlebar {
+    height: initial;
+    padding: 0 8px;
+    line-height: 35px;
+}
+
+div#jqgh_jqGrid_cb {
+    overflow: initial;
+}
+
+td.ui-state-default.jqgrid-rownum {
+    background: rgb(234, 235, 236);
+    color: #212121;
+}
+
+.mobile .ui-jqgrid .ui-jqgrid-pager .ui-pager-control{
+    height: auto;
+}
+.mobile td#jqGridPager_left {
+    width: 100% !important;
+    float: right;
+    background: red;
+}
+
+.mobile td#jqGridPager_center {
+    width: 100% !important;
+    float: right;
+}
+
+.mobile td#jqGridPager_right {
+    width: 100% !important;
+    float: right;
+    text-align: center;
+}
+/*# sourceMappingURL=jqGridConfig.css.map */

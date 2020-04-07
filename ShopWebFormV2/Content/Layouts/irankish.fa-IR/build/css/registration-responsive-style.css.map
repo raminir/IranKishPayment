@@ -1,0 +1,1 @@
+{"version":3,"sources":["registration-responsive-style.css"],"names":[],"mappings":"AAAA;IACI;QACI,mBAAkB;QAClB,qBAAoB;MACvB;EACJ","file":"registration-responsive-style.css","sourcesContent":["@media (max-width: 991px) {\r\n    .rgn-p-2 .btn{\r\n        position: initial;\r\n        margin-bottom: 15px;\r\n    }\r\n}"],"sourceRoot":"/source/"}

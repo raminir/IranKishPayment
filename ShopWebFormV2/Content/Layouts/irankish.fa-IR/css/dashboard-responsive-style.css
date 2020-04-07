@@ -1,0 +1,23 @@
+.chart-responsive-container {
+    overflow-y: auto;
+}
+
+.chart-responsive-item {
+    min-width: 500px;
+}
+
+@media (max-width: 767px) {
+    .panel-heading .badge {
+        display: none;
+    }
+    .dsh-p-header{
+        text-align: center;
+    }
+    .dsh-p-header h2{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .Festivals{
+        text-align: center;
+    }
+}

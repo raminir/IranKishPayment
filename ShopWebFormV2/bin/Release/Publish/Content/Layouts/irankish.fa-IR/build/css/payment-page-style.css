@@ -1,0 +1,322 @@
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+
+.ltr {
+    direction: ltr
+}
+
+.pay-main-row {
+    margin-bottom: 23px
+}
+
+
+.pay-main-col {
+    width: 370px
+}
+
+.pay-main-col .help-block {
+    float: right;
+
+}
+
+.pay-main-col .pay-main-col-001 input {
+    max-width: 60px;
+    float: right
+}
+
+.pay-main-col .pay-main-col-001 span {
+    float: right;
+    line-height: 40px;
+    font-family: arial, sans-serif;
+    padding: 0 5px;
+}
+
+.pay-main-col .pay-main-col-002 {
+    min-height: 60px
+}
+
+.pay-main-col .pay-main-col-003 {
+    min-height: 60px
+}
+
+.pay-main-col .pay-main-col-004 {
+    min-height: 60px
+}
+
+.pay-main-col .pay-main-col-004 input {
+    max-width: 52px;
+    float: right
+}
+
+.pay-main-col .pay-main-col-004 span {
+    float: right;
+    line-height: 40px;
+    padding: 0 5px;
+}
+
+.pay-main-col .pay-main-col-005 {
+    min-height: 60px
+}
+
+.pay-main-col-006 img {
+    width: 150px;
+    height: 50px
+}
+
+.pay-main-col-007 button {
+    float: left;
+    margin-top: 5px
+}
+
+.pay-main-col-007 button span {
+    font-size: 17px;
+    top: 4px;
+}
+
+.pay-info {
+    position: relative
+}
+
+.pay-info .well {
+    position: relative;
+    height: 565px !important;
+}
+
+.pay-info .well .pay-info-001 {
+    margin-bottom: 20px
+}
+
+.pay-info.footer-style-2 .pay-info-001 div {
+    background-color: white !important;
+}
+
+.pay-info.footer-style-2 .pay-info-001 div img {
+    max-height: 60px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.pay-info.footer-style-2 .pay-info-002 {
+    margin-bottom: 53px;
+    overflow-y: auto;
+    height: 320px;
+    overflow-x: hidden;
+}
+
+.pay-info.footer-style-1 .row.foot-2,
+.pay-info.footer-style-2 .row.foot-2{
+    position: absolute;
+    bottom: 50px;
+    right: 15px;
+    border-top: 1px solid rgb(200, 200, 200);
+    width: 100%;
+    padding: 0;
+    padding-top: 10px;
+}
+
+.pay-info.footer-style-1 .row.foot-1,
+.pay-info.footer-style-2 .row.foot-1{
+    background-color: rgb(227, 227, 227);
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+    border-top: 1px solid rgb(200, 200, 200);
+    width: 100%;
+    padding: 0;
+    padding-top: 10px;
+}
+
+.pay-info.footer-style-1 .pay-info-002{
+    margin-bottom: 53px;  margin-bottom: 53px;overflow-y: auto; height: 360px; overflow-x: hidden;
+}
+
+.pay-info.pay-general .well .pay-info-001 div {
+    -webkit-border-radius: 2px;
+            border-radius: 2px;
+    height: 100px;
+    background: #0f4dbc;
+    text-align: center;
+    color: white;
+}
+
+.pay-info.pay-general .well .pay-info-002 span.glyphicon,
+.pay-info.pay-general .well .pay-info-003 span.glyphicon,
+.pay-info.pay-general .well .pay-info-004 span.glyphicon {
+    font-size: 8px;
+    margin-left: 10px;
+    color: #0f4dbc
+}
+.pay-info.pay-gas .well .pay-info-001 div {
+    cursor: pointer;
+    -webkit-border-radius: 2px;
+            border-radius: 2px;
+    height: 100px;
+    background: #0008df url('../../imgs/NISOC-Logo-2.png');
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-position: center 7px;
+}
+
+.pay-info.pay-gas .well .pay-info-002 span.glyphicon {
+    font-size: 8px;
+    margin-left: 10px;
+    color: #0008DF
+}
+
+.pay-info.pay-mtn .well .pay-info-001 div {
+    cursor: pointer;
+    -webkit-border-radius: 2px;
+            border-radius: 2px;
+    height: 100px;
+    background: rgb(255, 189, 0) url('../../imgs/Gbrand.png');
+    background-repeat: no-repeat;
+    background-size: 78px;
+    background-position: center 31px;
+}
+
+.pay-info.pay-mtn .well .pay-info-002 span.glyphicon {
+    font-size: 8px;
+    margin-left: 10px;
+    color: rgb(255, 189, 0);
+}
+
+.pay-info.pay-mci .well .pay-info-001 div {
+	cursor: pointer;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	height: 100px;
+	background: rgb(82, 193, 220) url('../../imgs/Gbrand.png');
+	background-repeat: no-repeat;
+	background-size: 78px;
+	background-position: center -75px;
+}
+
+.pay-info.pay-mci .well .pay-info-002 span.glyphicon {
+	font-size: 8px;
+	margin-left: 10px;
+	color: rgb(82, 193, 220);
+}
+
+.pay-info.pay-bills .well .pay-info-002 span.glyphicon {
+    font-size: 8px;
+    margin-left: 10px;
+    color: rgb(15, 77, 188);
+}
+
+.pay-bills-form {
+    margin-top: 20px
+}
+
+.modal-header-logos-001 {
+    height: 30px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.modal-header-logos-002 {
+    height: 60px;
+    margin-left: 15px;
+}
+
+.timer {
+    background: url("../../imgs/timer.png");
+    height: 30px;
+    background-repeat: no-repeat;
+    width: 250px;
+    margin: 0 auto;
+    position: relative;
+    top: -15px;
+}
+
+.timer p {
+    text-align: center;
+    line-height: 30px;
+}
+
+.timer span {
+    width: 60px;
+    display: block;
+    float: left;
+    position: relative;
+    left: 50px;
+}
+
+/*----------------------------------------------------------*/
+/*//////////////////////////////////////////////////////////*/
+/*----------------------------------------------------------*/
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: lightgray;
+}
+
+div.keypad-rtl {
+    border-color: rgb(204, 204, 204);
+}
+
+div.keypad-rtl button {
+    direction: rtl;
+    font-size: 10pt;
+    font-family: "webYekan", Arial;
+    border: 1px solid rgb(227, 227, 227);
+    -webkit-border-radius: 2px;
+            border-radius: 2px;
+}
+
+div.keypad-rtl .keypad-close {
+    background-color: #35BE70;
+    border: none;
+    font-size: 12px !important;
+    line-height: 28px;
+    width: 56px;
+}
+
+div.keypad-rtl .keypad-clear {
+    background-color: #D93D60;
+    border: none;
+    font-size: 12px !important;
+    line-height: 28px;
+    width: 56px;
+}
+
+div.keypad-rtl .keypad-back {
+    background-color: #F8A151;
+    border: none;
+    font-size: 12px !important;
+    line-height: 28px;
+    width: 56px;
+}
+
+.ltr {
+    font-family: Verdana;
+}
+
+.ltr span {
+    font-family: "webYekan", Arial;
+}
+
+
+/*footer*/
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #eee;
+}
+.footer span{
+    line-height: 40px;
+    color: #6A6A6A;
+    font-size: 11px;
+
+}
+.footer span em{
+    font-family: 'arial';
+}
+body {
+    margin-bottom: 40px;
+}
+/*# sourceMappingURL=payment-page-style.css.map */

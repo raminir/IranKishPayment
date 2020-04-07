@@ -1,0 +1,45 @@
+.em-form{
+    margin-bottom: 30px;
+}
+.em-table{
+    margin-bottom: 30px;
+    display: none;
+}
+
+.em-report-detail-toggle{
+    display: none;
+}
+.em-report-detail {
+    min-height: 360px;
+}
+
+.em-report-detail .tab-content > div {
+    padding: 20px 15px 0;
+}
+
+.em-report-detail .tab-content > .row {
+    margin: 0;
+}
+
+.em-report-detail .tab-content .usr-supporter-info {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.supporter-name{
+    line-height: 68px;
+    margin: 0 90px 0 0  !important;
+    padding: 0;
+}
+.supporter-pic {
+    /*position: absolute;*/
+    width: 68px;
+    height: 68px;
+    -webkit-border-radius: 100%;
+            border-radius: 100%;
+    /*top: 0px;*/
+    background: #2ECC71;
+    /*right: 15px;*/
+    float: right;
+}
+/*# sourceMappingURL=emReport-page-style.css.map */

@@ -1,0 +1,14 @@
+.container > .navbar-header{
+    margin-right: 0;
+    margin-left: 0;
+}
+.img-load{
+    background-image: url("../../irankish.fa-IR/imgs/HNCK4011.jpg");
+    background-size: cover;
+    height: 390px;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    -webkit-border-radius: 2px;
+            border-radius: 2px;
+}
+/*# sourceMappingURL=R-3.css.map */

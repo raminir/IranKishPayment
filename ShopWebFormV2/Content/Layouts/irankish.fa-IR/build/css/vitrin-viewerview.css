@@ -1,0 +1,112 @@
+
+.carousel-inner .item img {
+    max-height: 400px;
+    margin: 0 auto;
+}
+.carousel-indicators {
+    bottom: -10px;
+}
+/*ERTEFAYE AKS HATMAN BISH TARAZ 400*/
+dl {
+    margin-bottom: 0;
+}
+
+.dl-horizontal dt {
+    text-align: right;
+    color: #265a88;
+}
+
+.title span.glyphicon {
+    font-size: 24px;
+    margin-left: 10px;
+    top: 6px;
+    color: #d0103a;
+}
+
+.num-tag {
+    line-height: 50px;
+    background: #eaebec;
+    -webkit-border-radius: 5px;
+            border-radius: 5px;
+}
+
+.num-tag-inner {
+    background: #06af4e;
+    -webkit-border-radius: 5px 0 0 5px;
+            border-radius: 5px 0 0 5px;
+    color: #ffffff;
+}
+
+.footer {
+    background: #eaebec;
+    padding: 30px 0;
+}
+
+.footer .links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+.footer .links li {
+    position: relative;
+    padding-right: 15px;
+}
+
+.footer .links li a {
+    color: #6a6a6a;
+}
+
+.footer .links li:before {
+    content: " ";
+    position: absolute;
+    right: 0;
+    top: 12px;
+    width: 5px;
+    height: 5px;
+    background: #d0103a;
+}
+.search-section .panel-heading{
+    border-bottom: none;
+}
+.search-section .panel-body{
+    padding: 0;
+}
+.search-section a .panel-heading{
+    -webkit-transition: .2s all ease;
+    -o-transition: .2s all ease;
+       transition: .2s all ease;
+}
+.search-section a:hover{
+text-decoration: none;
+}
+
+.search-section .search-section-img{
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-position: -16px 0px;
+}
+.search-section-001 a:hover .panel-heading{
+    background: #004392;
+    color: #ffffff;
+}
+.search-section-001 .search-section-img{
+    background: url("../../imgs/searchSec-001.jpg");
+}
+.search-section-002 a:hover .panel-heading{
+    background: #CC2E68;
+    color: #ffffff;
+}
+.search-section-002 .search-section-img{
+    background: url("../../imgs/searchSec-003.jpg");
+}
+.search-section-003 a:hover .panel-heading{
+    background: #FE7D22;
+    color: #ffffff;
+}
+.search-section-003 .search-section-img{
+    background: url("../../imgs/searchSec-002.jpg");
+}
+/*# sourceMappingURL=vitrin-viewerview.css.map */

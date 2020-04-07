@@ -1,0 +1,14 @@
+angular.module('mainApp',[])
+.controller('mainCtrl',function(){
+    })
+.directive('menu',function(){
+        return{
+            restrict:'AE',
+            link:function(scope,element){
+                element.autoHidingNavbar({
+                    animationDuration:400,
+                    showOnBottom:false
+                })
+            }
+        }
+    })

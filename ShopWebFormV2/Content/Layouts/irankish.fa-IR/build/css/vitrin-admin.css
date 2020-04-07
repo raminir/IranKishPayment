@@ -1,0 +1,53 @@
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+input[readonly] {
+    background-color: white !important;
+    cursor: text !important;
+}
+.title span.glyphicon{
+    font-size: 16px; margin-left: 10px;
+}
+
+.checkbox input[type=checkbox]{
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+}
+.checkbox label{
+    color: #4d4d4d;
+}
+.num-tag {
+    line-height: 50px;
+    background: #eaebec;
+    -webkit-border-radius: 5px;
+            border-radius: 5px;
+}
+
+.num-tag-inner {
+    background: #06af4e;
+    -webkit-border-radius: 5px 0 0 5px;
+            border-radius: 5px 0 0 5px;
+    color: #ffffff;
+}
+/*.load-img img {*/
+    /*max-height: 100px;*/
+    /*margin: 0 auto;*/
+/*}*/
+/*# sourceMappingURL=vitrin-admin.css.map */

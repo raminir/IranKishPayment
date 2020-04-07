@@ -1,0 +1,38 @@
+.login .dropdown-menu{
+    left: 15px;
+    right: auto;
+    float: left;
+    width: 260px;
+    overflow: hidden;
+    padding: 10px 15px 0;
+}
+.login .dropdown-menu .form-group{
+    width: 100%;
+}
+.login .dropdown-menu .form-group input{
+    width: 100%;
+}
+.login .dropdown-menu .login_reg_1{
+    background: url(../../imgs/nav_login_img.png);
+    height: 6px;
+}
+.login .dropdown-menu .login_reg_2{
+    background: #06af4e;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.login .dropdown-menu .login_reg_2 p{
+    color: white;
+}
+.login .dropdown-menu .login_reg_2 a{
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    background: #007D32;
+    border-color: #007D32;
+}
+.login .dropdown-menu .login_reg_2 a:hover{
+    background: #ffffff;
+    border-color: #ffffff;
+    color: #007D32;
+}

@@ -1,0 +1,10 @@
+@media (max-width: 767px) {
+    .dsh-p-header{
+        text-align: center;
+    }
+    .dsh-p-header h2{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+/*# sourceMappingURL=general-dashboard-responsive.css.map */

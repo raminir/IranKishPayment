@@ -1,0 +1,77 @@
+.shop-rule-001{
+    margin-top: 20px;
+}
+.shop-main-row {
+    margin-bottom: 23px;
+    margin-top: 46px
+}
+.shop-choose-001,.shop-choose-002 {
+    margin-bottom: 20px;
+}
+.shop-choose-001 .shop-choose-btn,.shop-choose-002 .shop-choose-btn {
+    height: 90px;
+    border-radius: 2px;
+    cursor: pointer
+}
+.shop-choose-001 .shop-choose-btn span {
+    color:#ffffff;font-size: 35px; line-height: 90px; margin: 0 20px;float: right
+}
+.shop-choose-001 .shop-choose-btn h4{
+    color: #ffffff;margin: 0;float: right;line-height: 90px;
+}
+.shop-main-col .shop-main-col-001{
+    margin-bottom: 20px
+}
+.shop-main-col .shop-main-col-001 span.glyphicon{
+    font-size: 16px; margin-left: 10px;
+}
+.shop-main-col .shop-main-col-002{
+    margin-top: 30px;
+}
+.shop-choose-002 .shop-choose-btn.shop-choose-btn-001{
+    cursor: pointer;
+    border-radius: 2px;
+    height: 90px;
+    background: rgb(255, 189, 0) url('../../imgs/Gbrand.png');
+    background-repeat: no-repeat;
+    background-size: 78px;
+    background-position: center 27px;
+ }
+.shop-choose-002 .shop-choose-btn.shop-choose-btn-002{
+    cursor: pointer;
+    border-radius: 2px;
+    height: 90px;
+    background: rgb(82, 193, 220) url('../../imgs/Gbrand.png');
+    background-repeat: no-repeat;
+    background-size: 58px;
+    background-position: center -47px;
+}
+.shop-choose-002 .shop-choose-btn.shop-choose-btn-003{
+    cursor: pointer;
+    border-radius: 2px;
+    height: 90px;
+    background: rgb(146, 14, 97) url('../../imgs/Gbrand.png');
+    background-repeat: no-repeat;
+    background-size: 86px;
+    background-position: center -295px;
+    position: relative;
+
+}
+.shop-choose-002 .shop-choose-btn.shop-choose-btn-003:after{
+    width: 100%;
+    content: "بزودی";
+    line-height: 78px;
+    cursor: default;
+    /* padding-top: 22px; */
+    text-align: center;
+    /* padding-left: 84px; */
+    font-size: 20px;
+    text-shadow: 3px 3px 4px rgb(11, 11, 11);
+    font-weight: 500;
+    color: white;
+    height: 100%;
+    background-color: rgba(26, 19, 19, 0.72);
+    position: absolute;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+}

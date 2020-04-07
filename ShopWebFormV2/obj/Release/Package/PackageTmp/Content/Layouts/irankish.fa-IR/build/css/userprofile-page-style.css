@@ -1,0 +1,83 @@
+.usr-name-style {
+    font-size: 10px;
+    float: right;
+    margin-left: 5px;
+    text-align: right;
+    top: 5px;
+    color: #2ECC71
+}
+
+.usr-info .panel-heading .badge{
+    padding: 4px 7px 7px;
+    font-weight: normal;
+    background: #EA3E24 !important;
+}
+
+.usr-info .panel-heading {
+     height: 201px;
+     background: url("../../imgs/dotted_bg.png") repeat scroll 0% 0% / 40px auto #00F !important ;
+     position: relative;
+    -webkit-transition: all 500ms;
+         -o-transition: all 500ms;
+            transition: all 500ms;
+ }
+.usr-info:hover .panel-heading{
+    background-position: 0% 60% !important;
+    background-size: 45px !important;
+}
+
+.user-pic {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    -webkit-border-radius: 100%;
+            border-radius: 100%;
+    border: 6px solid rgb(255, 255, 255);
+    top: 160px;
+    background: #2ECC71;
+    left: 26px;
+}
+
+.usr-info-table {
+    height: 490px;
+    overflow-y: auto;
+}
+
+.usr-info-detail-toggle{
+    display: none;
+}
+.usr-info-detail {
+    min-height: 360px;
+}
+
+.usr-info-detail .tab-content > div {
+    padding: 20px 15px 0;
+}
+
+.usr-info-detail .tab-content > .row {
+    margin: 0;
+}
+
+.usr-info-detail .tab-content .usr-supporter-info {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.supporter-name{
+    line-height: 68px;
+    margin: 0 90px 0 0  !important;
+    padding: 0;
+}
+.supporter-pic {
+    /*position: absolute;*/
+    width: 68px;
+    height: 68px;
+    -webkit-border-radius: 100%;
+            border-radius: 100%;
+    /*top: 0px;*/
+    background: #2ECC71;
+    /*right: 15px;*/
+    float: right;
+}
+
+/*# sourceMappingURL=userprofile-page-style.css.map */
